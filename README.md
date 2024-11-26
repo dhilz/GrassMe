@@ -13,7 +13,7 @@
 <h3> 👨🏻‍💻 Tutorial instalasi </h3>
 
 - 🤔 &nbsp; Beli Proxy Murah Bisa Di Proxy scrape yang mana bisa membeli dengan cara register new user dapat claim proxy residential seharga 2$.
-- 🎓 &nbsp; Copy Proxy Dan Salin Di Proxy.txt Pastikan Format Proxy ip username pass.
+- 🎓 &nbsp; Copy Proxy Dan Salin Di Proxy.txt Pastikan Format Proxy ip username pass Dan Pastikan Ubah Uid Dan Jumlah Proxy Di .env nya.
 - 🌱 &nbsp; Install Dependensies Dengan Ketik Berikut :
              cd GrassMe
              python3 -m venv grass
