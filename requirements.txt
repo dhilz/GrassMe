@@ -1,0 +1,7 @@
+requests
+python-dotenv
+asyncio
+loguru
+fake_useragent
+websockets_proxy
+websockets
